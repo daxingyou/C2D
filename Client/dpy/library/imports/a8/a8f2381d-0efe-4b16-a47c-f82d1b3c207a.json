@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_career",
+    "texture": "564e3f6b-c97f-4eef-8d3d-7dbda48f9ea2",
+    "atlas": "",
+    "rect": [
+      29,
+      7,
+      57,
+      83
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      115,
+      93
+    ]
+  }
+}

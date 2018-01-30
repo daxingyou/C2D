@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_lbl_title3",
+    "texture": "3fa673b9-a3a4-461f-b32a-11b5f2b70172",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      228,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      228,
+      61
+    ]
+  }
+}

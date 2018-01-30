@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "9_board_notice_bg",
+    "texture": "f65a9067-e9a4-486c-a6f6-2a759d379c21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      45
+    ],
+    "capInsets": [
+      77,
+      14,
+      76,
+      14
+    ]
+  }
+}

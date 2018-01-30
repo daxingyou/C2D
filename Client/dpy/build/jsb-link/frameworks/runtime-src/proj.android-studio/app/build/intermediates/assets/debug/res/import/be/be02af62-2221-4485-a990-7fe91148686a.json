@@ -1,0 +1,57 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "BQ10",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "BQ10",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "247BM8yZhGC5QhKDa9M7Yq"
+        },
+        "_sizeMode": 2,
+        "_isTrimmedMode": false
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_defaultClip": {
+          "__uuid__": "1fWM1VAddFk4o23dTgkes/"
+        },
+        "_clips": [
+          {
+            "__uuid__": "1fWM1VAddFk4o23dTgkes/"
+          }
+        ],
+        "playOnLoad": true
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "beAq9iIiFEhamQf+kRSGhq"
+      },
+      "fileId": "ef58baO81AgJE+B5sRINcB"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 128,
+      "height": 160
+    }
+  }
+]

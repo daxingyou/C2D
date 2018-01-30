@@ -1,0 +1,57 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "BQ18",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "BQ18",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "b3PYFLMF1C2ZjzLkNXDbD9"
+        },
+        "_sizeMode": 2,
+        "_isTrimmedMode": false
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_defaultClip": {
+          "__uuid__": "adBauqbsVNRrmZgvW1Ym5f"
+        },
+        "_clips": [
+          {
+            "__uuid__": "adBauqbsVNRrmZgvW1Ym5f"
+          }
+        ],
+        "playOnLoad": true
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "e0RDNWpOpGOr9mihJf9HzZ"
+      },
+      "fileId": "b4Ycd54CpLkobpFcTtk24S"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 180,
+      "height": 170
+    }
+  }
+]

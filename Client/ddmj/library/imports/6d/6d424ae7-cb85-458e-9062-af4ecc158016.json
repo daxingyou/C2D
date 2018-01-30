@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_btn_wan2",
+    "texture": "ad280e8e-117f-4427-a29d-2fff84e2412e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      171
+    ]
+  }
+}

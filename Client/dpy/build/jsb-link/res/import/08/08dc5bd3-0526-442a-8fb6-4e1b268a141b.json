@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_safePool",
+    "texture": "0coPMsupZBHJi2FkCnl/be",
+    "rect": [
+      0,
+      0,
+      88,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      29
+    ]
+  }
+}

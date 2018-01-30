@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_fllow",
+    "texture": "ad1f6a36-f49b-4668-a905-f23a72f96c9e",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      89,
+      39
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      90,
+      40
+    ]
+  }
+}

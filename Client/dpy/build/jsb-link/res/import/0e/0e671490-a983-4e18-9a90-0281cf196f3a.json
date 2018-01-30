@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pro_bar",
+    "texture": "feiBxGQDxGTKKEAJcmeshz",
+    "rect": [
+      0,
+      0,
+      7,
+      374
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      7,
+      374
+    ]
+  }
+}

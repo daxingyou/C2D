@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_number_26_36",
+    "texture": "e7AAD05vBHRoagd57Tc7TQ",
+    "rect": [
+      0,
+      0,
+      104,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      108
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_timeset",
+    "texture": "191cda391",
+    "rect": [
+      297,
+      91,
+      133,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      33
+    ]
+  }
+}

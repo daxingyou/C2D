@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Left_Down",
+    "texture": "63be99ca-46c8-4ba2-863e-b12395fbda27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      43
+    ]
+  }
+}

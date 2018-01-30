@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tong_7",
+    "texture": "cda10fc1-5ac6-46d9-b5b0-cfa122382854",
+    "atlas": "",
+    "rect": [
+      4,
+      1,
+      53,
+      75
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      60,
+      76
+    ]
+  }
+}

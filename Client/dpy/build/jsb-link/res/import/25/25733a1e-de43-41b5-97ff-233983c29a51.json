@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "career_list3",
+    "texture": "4cii2F9U1B94CZQagy9zGb",
+    "rect": [
+      10,
+      10,
+      265,
+      103
+    ],
+    "offset": [
+      0,
+      25.5
+    ],
+    "originalSize": [
+      285,
+      174
+    ]
+  }
+}

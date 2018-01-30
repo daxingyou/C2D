@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_btn",
+    "texture": "36bb3e9d-9be7-4cfe-815d-83bf4c5a60e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      356,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      356,
+      112
+    ]
+  }
+}

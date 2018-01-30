@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statis_quanxia",
+    "texture": "c28e89cd-19de-4968-b0dc-768c45b51632",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      93,
+      29
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      94,
+      29
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjh_icon_gold4",
+    "texture": "4a85cf55-05c6-4839-83b3-7475be65d0e4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      70,
+      63
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      72,
+      64
+    ]
+  }
+}

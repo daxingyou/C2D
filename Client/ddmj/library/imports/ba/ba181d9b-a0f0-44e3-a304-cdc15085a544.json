@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_9_board_btm",
+    "texture": "87b1f268-6424-47e0-ba29-fc73bb8ce386",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ],
+    "capInsets": [
+      26,
+      26,
+      26,
+      23
+    ]
+  }
+}

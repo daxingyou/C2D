@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Table_Up",
+    "texture": "470ab1ed-fc0d-4e79-abcb-458ffb5d9867",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      56
+    ]
+  }
+}

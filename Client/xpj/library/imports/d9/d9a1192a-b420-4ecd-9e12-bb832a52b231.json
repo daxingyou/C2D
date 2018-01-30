@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_pingming",
+    "texture": "01bdbf20-5cb3-48f7-bb79-83adf60aef86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      98
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Mine_Down",
+    "texture": "5c6024b0-5b7e-4cdb-85c7-fb950ce77540",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      91
+    ]
+  }
+}

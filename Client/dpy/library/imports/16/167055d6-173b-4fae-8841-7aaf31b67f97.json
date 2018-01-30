@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_notice",
+    "texture": "31b8ee1a-8252-4775-b9fe-91036c44bf3e",
+    "atlas": "",
+    "rect": [
+      29,
+      5,
+      57,
+      85
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      115,
+      93
+    ]
+  }
+}

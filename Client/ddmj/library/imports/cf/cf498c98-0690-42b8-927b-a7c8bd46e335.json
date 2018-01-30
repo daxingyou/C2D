@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Mine_Up",
+    "texture": "d4ca170a-8007-4120-94c9-9352b05a3468",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      60,
+      87
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      60,
+      91
+    ]
+  }
+}

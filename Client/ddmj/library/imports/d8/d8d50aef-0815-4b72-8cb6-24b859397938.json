@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_img_bind1",
+    "texture": "0f751d5c-e17d-405b-b6a4-234b8f0c8667",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      24
+    ]
+  }
+}

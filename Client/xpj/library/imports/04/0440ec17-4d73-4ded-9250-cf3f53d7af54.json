@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjh_img_clock",
+    "texture": "f19dcc53-b617-4c76-b267-69d836ad1061",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      102
+    ]
+  }
+}

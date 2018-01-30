@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_agree",
+    "texture": "803f6b03-1c51-4d26-91d8-caad5a6f031d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      33
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      72,
+      34
+    ]
+  }
+}

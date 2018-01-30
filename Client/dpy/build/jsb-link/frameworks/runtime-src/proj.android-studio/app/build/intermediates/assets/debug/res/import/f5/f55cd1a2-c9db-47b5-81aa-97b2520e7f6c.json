@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_img_btm",
+    "texture": "74IREC4ZNDTJXAblRBor5V",
+    "rect": [
+      3,
+      4,
+      397,
+      76
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      400,
+      84
+    ],
+    "capInsets": [
+      44,
+      0,
+      44,
+      0
+    ]
+  }
+}

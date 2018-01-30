@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjh_icon_bet1",
+    "texture": "c947f7a2-c6b9-42fa-a55b-9451f7a67133",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      66
+    ]
+  }
+}

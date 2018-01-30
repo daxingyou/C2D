@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjh_img_pBoard2",
+    "texture": "f65d262e-6b25-49df-8a94-3ae8f35dc085",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      170
+    ]
+  }
+}

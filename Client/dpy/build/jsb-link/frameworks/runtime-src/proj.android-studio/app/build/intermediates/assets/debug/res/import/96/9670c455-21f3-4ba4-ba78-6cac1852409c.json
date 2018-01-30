@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loading",
+  "_duration": 4,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "img": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "layout/lbl_dog": {
+        "comps": {
+          "cc.Label": {
+            "string": [
+              {
+                "frame": 0,
+                "value": ""
+              },
+              {
+                "frame": 1,
+                "value": "."
+              },
+              {
+                "frame": 2,
+                "value": ".."
+              },
+              {
+                "frame": 3,
+                "value": "..."
+              },
+              {
+                "frame": 4,
+                "value": ""
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "create_edite_box",
+    "texture": "fedc708c-76a9-4c31-a917-549d8d2c7efa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      569,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      569,
+      68
+    ]
+  }
+}

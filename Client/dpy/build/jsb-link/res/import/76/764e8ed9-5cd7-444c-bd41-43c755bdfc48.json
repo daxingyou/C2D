@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_btn_7",
+    "texture": "191cda391",
+    "rect": [
+      2,
+      420,
+      159,
+      160
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      160,
+      160
+    ]
+  }
+}

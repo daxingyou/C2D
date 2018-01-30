@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Apply_send",
+    "texture": "c29oqOALhGsJjWDHGblpVn",
+    "rect": [
+      0,
+      0,
+      165,
+      43
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      166,
+      44
+    ]
+  }
+}

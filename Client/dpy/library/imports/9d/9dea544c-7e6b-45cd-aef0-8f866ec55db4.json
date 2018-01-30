@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safe_pro_bar",
+    "texture": "084174d3-1956-4498-ba56-6c03e5957037",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      623,
+      7
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      623,
+      7
+    ]
+  }
+}

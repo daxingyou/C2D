@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_allin",
+    "texture": "f00bb4OIpA2a51LKWGkD3D",
+    "rect": [
+      0,
+      0,
+      136,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      28
+    ]
+  }
+}

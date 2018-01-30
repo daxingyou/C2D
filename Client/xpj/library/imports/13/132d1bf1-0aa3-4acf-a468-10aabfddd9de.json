@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "store_img_recharge",
+    "texture": "afda5dcd-fd58-4d2b-b130-f58defffce0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      327,
+      439
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      328,
+      439
+    ]
+  }
+}

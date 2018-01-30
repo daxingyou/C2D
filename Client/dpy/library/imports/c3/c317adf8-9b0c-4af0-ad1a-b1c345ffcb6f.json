@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titile_mine_back",
+    "texture": "a910a879-3598-48b2-abf2-aa882fbad667",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      46
+    ]
+  }
+}

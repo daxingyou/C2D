@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_pool2_off",
+    "texture": "df64b0ad-833d-477c-9715-038a4f5e1dc9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      102
+    ]
+  }
+}

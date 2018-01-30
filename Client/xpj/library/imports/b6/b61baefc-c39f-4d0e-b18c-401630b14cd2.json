@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "store_btn_wx2",
+    "texture": "cf971296-d829-47a8-9649-ee44cdeb1e17",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      317,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      317,
+      91
+    ]
+  }
+}

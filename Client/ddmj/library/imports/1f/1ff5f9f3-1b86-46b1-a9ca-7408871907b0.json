@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_boy",
+    "texture": "e55c1d38-9d27-4796-9b87-2fda221e2476",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      47
+    ]
+  }
+}

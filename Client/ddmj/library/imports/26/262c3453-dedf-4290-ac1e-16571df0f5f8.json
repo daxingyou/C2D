@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_money_box",
+    "texture": "ab56477d-d545-463a-bff4-dc61c413406a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      32
+    ]
+  }
+}

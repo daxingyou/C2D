@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "career_list1",
+    "texture": "fe4e7423-251a-427a-8c10-adb16d127c50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      285,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      285,
+      174
+    ]
+  }
+}

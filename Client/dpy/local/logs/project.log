@@ -1,0 +1,58 @@
+2018-01-30T02:19:58.029Z - normal: Load ~/.CocosCreator/settings.json
+2018-01-30T02:19:58.029Z - normal: checking language setting...
+2018-01-30T02:19:58.029Z - normal: Language: zh
+2018-01-30T02:19:59.967Z - success: protocol editor-framework registered
+2018-01-30T02:19:59.967Z - success: protocol app registered
+2018-01-30T02:19:59.967Z - success: protocol theme registered
+2018-01-30T02:19:59.967Z - success: protocol packages registered
+2018-01-30T02:19:59.967Z - success: protocol unpack registerred
+2018-01-30T02:19:59.967Z - success: protocol disable-commonjs registerred
+2018-01-30T02:20:00.237Z - normal: connected!
+2018-01-30T02:20:00.237Z - normal: Check project C:\Users\lxb22\Desktop\svn\client\dpy
+2018-01-30T02:20:00.237Z - normal: Initializing Cocos2d
+2018-01-30T02:20:00.528Z - normal: Initializing Asset Database
+2018-01-30T02:20:00.568Z - success: protocol uuid registerred
+2018-01-30T02:20:00.568Z - success: protocol db registerred
+2018-01-30T02:20:00.568Z - success: protocol thumbnail registerred
+2018-01-30T02:20:00.568Z - normal: Loading editor/builtin packages
+2018-01-30T02:20:00.608Z - success: anysdk loaded
+2018-01-30T02:20:00.768Z - success: assets loaded
+2018-01-30T02:20:00.768Z - success: builder loaded
+2018-01-30T02:20:00.778Z - success: cocos-analytics loaded
+2018-01-30T02:20:00.778Z - success: console loaded
+2018-01-30T02:20:00.778Z - success: hierarchy loaded
+2018-01-30T02:20:00.788Z - success: inspector loaded
+2018-01-30T02:20:00.788Z - success: keystore loaded
+2018-01-30T02:20:00.788Z - success: node-library loaded
+2018-01-30T02:20:00.788Z - success: package-asset loaded
+2018-01-30T02:20:00.788Z - success: preferences loaded
+2018-01-30T02:20:00.798Z - success: project-exporter loaded
+2018-01-30T02:20:00.838Z - success: project-importer loaded
+2018-01-30T02:20:00.838Z - success: project-settings loaded
+2018-01-30T02:20:00.838Z - success: ui-kit loaded
+2018-01-30T02:20:00.838Z - success: ui-grid loaded
+2018-01-30T02:20:00.848Z - success: scene loaded
+2018-01-30T02:20:00.848Z - success: sprite-editor loaded
+2018-01-30T02:20:00.848Z - success: store loaded
+2018-01-30T02:20:00.858Z - success: timeline loaded
+2018-01-30T02:20:00.858Z - normal: Loading builtin packages
+2018-01-30T02:20:00.858Z - success: asset-db-debugger loaded
+2018-01-30T02:20:00.858Z - success: code-editor loaded
+2018-01-30T02:20:00.858Z - success: color-picker loaded
+2018-01-30T02:20:00.858Z - success: package-manager loaded
+2018-01-30T02:20:00.868Z - success: sdkbox loaded
+2018-01-30T02:20:00.868Z - success: tester loaded
+2018-01-30T02:20:00.868Z - success: ui-kit-preview-extra loaded
+2018-01-30T02:20:00.868Z - success: ui-kit-preview loaded
+2018-01-30T02:20:00.868Z - success: ui-tree loaded
+2018-01-30T02:20:02.068Z - normal: Initializing project C:\Users\lxb22\Desktop\svn\client\dpy
+2018-01-30T02:20:02.078Z - normal: Loading packages
+2018-01-30T02:20:02.088Z - success: clean loaded
+2018-01-30T02:20:02.088Z - success: resource loaded
+2018-01-30T02:20:02.248Z - success: unpack-textureatlas loaded
+2018-01-30T02:20:02.248Z - success: hot-update-tools loaded
+2018-01-30T02:20:02.258Z - success: hot-update loaded
+2018-01-30T02:20:02.258Z - normal: Watching packages
+2018-01-30T02:20:02.288Z - normal: Run Application
+2018-01-30T02:20:04.014Z - success: preview server running at http://localhost:7456
+2018-01-30T02:20:10.305Z - normal: 1.8.1

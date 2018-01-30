@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "create_Drag2",
+    "texture": "191cda391",
+    "rect": [
+      2,
+      35,
+      623,
+      7
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      623,
+      7
+    ]
+  }
+}

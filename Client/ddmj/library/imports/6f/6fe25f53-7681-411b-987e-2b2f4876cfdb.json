@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "9_board_b4",
+    "texture": "85043154-27ba-4610-8b9e-4a24786b4d49",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      223,
+      186
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      186
+    ],
+    "capInsets": [
+      106,
+      86,
+      106,
+      86
+    ]
+  }
+}

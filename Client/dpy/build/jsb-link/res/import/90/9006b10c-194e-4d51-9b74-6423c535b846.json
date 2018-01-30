@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_discard",
+    "texture": "b783ULIaRN64h3cS25nlBG",
+    "rect": [
+      0,
+      0,
+      90,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      40
+    ]
+  }
+}

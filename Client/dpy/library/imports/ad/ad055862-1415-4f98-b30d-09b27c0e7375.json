@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_pass",
+    "texture": "9f3cf014-8dc5-4359-a85a-86f09cfe5d69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      38
+    ]
+  }
+}

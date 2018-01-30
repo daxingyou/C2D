@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjh_ui_btm3",
+    "texture": "b771f634-0aff-4a4b-8d62-df0139a646f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      348,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      348,
+      94
+    ],
+    "capInsets": [
+      125,
+      14,
+      125,
+      7
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_notbuy",
+    "texture": "249741d0-6d9a-4ef8-91f1-00281f05f18f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      50
+    ]
+  }
+}

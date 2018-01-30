@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_raise_money",
+    "texture": "d1472796-70c6-4505-a07e-1fe7bcfcfe62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      33
+    ]
+  }
+}

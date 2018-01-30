@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Table_Down",
+    "texture": "25fbc9e2-11e1-4efb-a250-ac7e663e37ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      56
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      38,
+      56
+    ]
+  }
+}

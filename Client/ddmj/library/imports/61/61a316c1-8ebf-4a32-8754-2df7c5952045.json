@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Left_Up",
+    "texture": "71d2ed84-4928-494d-8a6d-4e6618135781",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      43
+    ]
+  }
+}

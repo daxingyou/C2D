@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_niuniu",
+    "texture": "3db1f550-91e5-48c6-87c9-fbfad250b7ac",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      416,
+      318
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      416,
+      321
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_socreset",
+    "texture": "f122b17e-ff99-4136-88e4-1d68020e9c28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      33
+    ]
+  }
+}

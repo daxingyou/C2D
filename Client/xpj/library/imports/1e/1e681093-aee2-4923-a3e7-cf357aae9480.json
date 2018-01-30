@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zjh_bpAction01",
+    "texture": "d8c53963-4da3-4425-9cfc-49052be9f6ba",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      422,
+      294
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      422,
+      295
+    ]
+  }
+}

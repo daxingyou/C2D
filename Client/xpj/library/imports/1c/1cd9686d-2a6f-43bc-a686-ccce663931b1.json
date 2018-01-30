@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "store_title_bank",
+    "texture": "72b3e918-a827-446b-844e-af4fcdc67b76",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      61
+    ]
+  }
+}

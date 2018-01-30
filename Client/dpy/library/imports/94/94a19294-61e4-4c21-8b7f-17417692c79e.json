@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creat_timeset",
+    "texture": "18410b9b-b62d-4ce7-ab9a-bc94b8259037",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      33
+    ]
+  }
+}

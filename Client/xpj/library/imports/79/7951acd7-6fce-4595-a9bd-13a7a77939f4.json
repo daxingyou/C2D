@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_deepBlue",
+    "texture": "0a876cbc-2a2b-4c7d-994e-107121824eb5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      66
+    ],
+    "capInsets": [
+      75,
+      5,
+      75,
+      5
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_GF_0012",
+    "texture": "7be5c60e-6f0a-44e5-a88d-21a9abf03f34",
+    "atlas": "",
+    "rect": [
+      3,
+      17,
+      226,
+      249
+    ],
+    "offset": [
+      1.5,
+      -4.5
+    ],
+    "originalSize": [
+      229,
+      274
+    ]
+  }
+}

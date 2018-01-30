@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_img_roll",
+    "texture": "55a8beb9-5434-4c7c-88b3-9041d53df401",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      401,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      401,
+      65
+    ]
+  }
+}

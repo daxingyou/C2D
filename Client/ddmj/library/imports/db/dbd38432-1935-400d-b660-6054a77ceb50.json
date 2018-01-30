@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_txt_qg",
+    "texture": "b379edc2-ff69-45fa-aac3-826818d2d41e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      72
+    ]
+  }
+}

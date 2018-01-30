@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_lookCard",
+    "texture": "953743c8-2655-4589-86ba-0fa336d78148",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      40
+    ]
+  }
+}

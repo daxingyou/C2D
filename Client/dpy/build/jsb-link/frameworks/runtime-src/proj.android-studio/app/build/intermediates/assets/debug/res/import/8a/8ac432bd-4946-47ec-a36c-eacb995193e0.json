@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_img_empty",
+    "texture": "5ewG9lrMFJM7pfl+ElsMJp",
+    "rect": [
+      0,
+      2,
+      99,
+      100
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      99,
+      102
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_btn",
+    "texture": "1ccb6987a",
+    "rect": [
+      2,
+      2,
+      356,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      356,
+      112
+    ]
+  }
+}

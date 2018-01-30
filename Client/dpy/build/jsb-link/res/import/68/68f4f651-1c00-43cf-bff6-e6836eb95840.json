@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_pool1",
+    "texture": "86ESm6ZARBz43RTtGig//X",
+    "rect": [
+      0,
+      0,
+      98,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      102
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniucombat_ic_bgp",
+    "texture": "bbe661b9-e0b9-4aa0-b353-fef6438fb7f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      738,
+      434
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      738,
+      434
+    ]
+  }
+}

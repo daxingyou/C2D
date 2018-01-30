@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniucombat_ic_lose",
+    "texture": "68aa5c97-e419-47d8-bdda-f7b95e4b0278",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      496,
+      249
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      496,
+      249
+    ]
+  }
+}

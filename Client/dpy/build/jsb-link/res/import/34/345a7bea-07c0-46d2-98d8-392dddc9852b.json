@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safe_img_choose",
+    "texture": "91OjPz/TxKsarK24couc7a",
+    "rect": [
+      1,
+      2,
+      42,
+      42
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      46,
+      45
+    ]
+  }
+}

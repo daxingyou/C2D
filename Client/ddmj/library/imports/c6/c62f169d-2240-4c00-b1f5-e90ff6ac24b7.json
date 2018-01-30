@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_btn_green_33_33",
+    "texture": "24176ad9-76f6-4222-afe4-cd855d40f994",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      231
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      231,
+      231
+    ]
+  }
+}

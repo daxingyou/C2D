@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_btn_bigBlind2",
+    "texture": "2ca223dd-d622-49f1-b1b2-5cb484795771",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      102
+    ]
+  }
+}

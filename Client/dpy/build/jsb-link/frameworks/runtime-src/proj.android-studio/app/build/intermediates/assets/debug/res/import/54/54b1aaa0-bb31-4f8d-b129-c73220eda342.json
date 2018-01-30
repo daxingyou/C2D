@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "set_switch_on",
+    "texture": "79Ai+tVLhDpaaQAZCkQD+x",
+    "rect": [
+      0,
+      0,
+      94,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      57
+    ]
+  }
+}

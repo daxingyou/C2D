@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "join_btn_4",
+    "texture": "6e8cf7f3-9fee-48d3-a8c3-b8813c252e0c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      159,
+      159
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      160,
+      160
+    ]
+  }
+}

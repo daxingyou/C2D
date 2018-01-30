@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safe_btn2",
+    "texture": "80f292af-c3d9-4b77-809d-59a3774d319e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      295,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      295,
+      112
+    ]
+  }
+}

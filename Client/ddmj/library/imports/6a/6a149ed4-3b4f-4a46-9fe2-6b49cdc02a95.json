@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading_dice",
+    "texture": "2068048e-4667-40d4-8ebf-c24c712e897f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      60
+    ]
+  }
+}

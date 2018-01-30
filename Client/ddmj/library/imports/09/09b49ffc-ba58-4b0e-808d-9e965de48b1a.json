@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_img_icon1",
+    "texture": "efd72fb0-9541-4b8d-b928-6ca72103ad8a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      586,
+      461
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      586,
+      461
+    ]
+  }
+}

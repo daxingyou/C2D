@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_9_board_right",
+    "texture": "f6cec14f-38e4-4284-ac24-c1258e41ee5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      60
+    ],
+    "capInsets": [
+      41,
+      41,
+      19,
+      19
+    ]
+  }
+}

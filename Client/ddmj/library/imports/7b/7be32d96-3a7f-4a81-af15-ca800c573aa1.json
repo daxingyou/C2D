@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_XY_005",
+    "texture": "2aefc472-e66e-4954-8d89-3d69bed71b36",
+    "atlas": "",
+    "rect": [
+      17,
+      17,
+      279,
+      311
+    ],
+    "offset": [
+      8,
+      -8.5
+    ],
+    "originalSize": [
+      297,
+      328
+    ]
+  }
+}

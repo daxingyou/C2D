@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_offLine",
+    "texture": "31c4eec5-783a-4e9f-be91-d587cf1b67d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      33
+    ]
+  }
+}

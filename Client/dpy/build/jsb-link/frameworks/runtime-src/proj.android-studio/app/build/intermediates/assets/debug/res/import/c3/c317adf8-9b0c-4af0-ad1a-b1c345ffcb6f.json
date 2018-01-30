@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titile_mine_back",
+    "texture": "140f6ce6b",
+    "rect": [
+      756,
+      2,
+      179,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      46
+    ],
+    "rotated": 1
+  }
+}

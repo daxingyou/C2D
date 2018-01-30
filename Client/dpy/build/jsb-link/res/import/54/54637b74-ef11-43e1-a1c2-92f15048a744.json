@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_fllow",
+    "texture": "adH2o29JtGaKkF8jpy+Wye",
+    "rect": [
+      1,
+      1,
+      89,
+      39
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      90,
+      40
+    ]
+  }
+}

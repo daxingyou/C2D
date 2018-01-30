@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "store_img_goods1",
+    "texture": "496a6959-d7e3-411c-b0b2-59fdcaaf0290",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      127
+    ]
+  }
+}

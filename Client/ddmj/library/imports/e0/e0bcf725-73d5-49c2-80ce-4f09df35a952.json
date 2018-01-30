@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_img_btm",
+    "texture": "00bcb8a4-a5b5-4aa7-9e47-a6843e3c8c1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1334,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1334,
+      92
+    ]
+  }
+}

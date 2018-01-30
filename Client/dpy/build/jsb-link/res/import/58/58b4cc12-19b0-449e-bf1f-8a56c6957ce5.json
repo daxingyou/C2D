@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_js",
+    "texture": "222v5LL/ZN3bB0w8+SIWA1",
+    "rect": [
+      0,
+      0,
+      95,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      47
+    ]
+  }
+}

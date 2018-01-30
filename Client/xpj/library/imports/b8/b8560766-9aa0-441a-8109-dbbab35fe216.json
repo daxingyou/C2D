@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "store_img_exchange",
+    "texture": "44945599-347c-432b-80c8-0052cf71e5f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      327,
+      439
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      328,
+      439
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biaoqing_7",
+    "texture": "14e47d99-3f51-43a0-8ca0-e72a06a4e11c",
+    "atlas": "3dd2459e-cb13-4cf3-afdc-58946e675f0f",
+    "rect": [
+      262,
+      190,
+      60,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      66
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_rooml_detail",
+    "texture": "e8jM4Epi9H/4PGFxLqmm4y",
+    "rect": [
+      0,
+      0,
+      178,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      47
+    ]
+  }
+}

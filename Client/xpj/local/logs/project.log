@@ -1,0 +1,369 @@
+2018-01-25T06:36:49.910Z - normal: Load ~/.CocosCreator/settings.json
+2018-01-25T06:36:49.916Z - normal: checking language setting...
+2018-01-25T06:36:49.917Z - normal: Language: zh
+2018-01-25T06:36:52.483Z - success: protocol editor-framework registered
+2018-01-25T06:36:52.483Z - success: protocol app registered
+2018-01-25T06:36:52.483Z - success: protocol theme registered
+2018-01-25T06:36:52.483Z - success: protocol packages registered
+2018-01-25T06:36:52.484Z - success: protocol unpack registerred
+2018-01-25T06:36:52.484Z - success: protocol disable-commonjs registerred
+2018-01-25T06:36:52.850Z - normal: connected!
+2018-01-25T06:36:52.854Z - normal: Check project C:\Users\lxb22\Desktop\svn\client\xpj
+2018-01-25T06:36:52.858Z - normal: Initializing Cocos2d
+2018-01-25T06:36:53.293Z - normal: Initializing Asset Database
+2018-01-25T06:36:53.373Z - success: protocol uuid registerred
+2018-01-25T06:36:53.375Z - success: protocol db registerred
+2018-01-25T06:36:53.376Z - success: protocol thumbnail registerred
+2018-01-25T06:36:53.378Z - normal: Loading editor/builtin packages
+2018-01-25T06:36:53.439Z - success: anysdk loaded
+2018-01-25T06:36:53.693Z - success: assets loaded
+2018-01-25T06:36:53.695Z - success: builder loaded
+2018-01-25T06:36:53.699Z - success: cocos-analytics loaded
+2018-01-25T06:36:53.704Z - success: console loaded
+2018-01-25T06:36:53.708Z - success: hierarchy loaded
+2018-01-25T06:36:53.711Z - success: inspector loaded
+2018-01-25T06:36:53.712Z - success: keystore loaded
+2018-01-25T06:36:53.717Z - success: node-library loaded
+2018-01-25T06:36:53.720Z - success: package-asset loaded
+2018-01-25T06:36:53.723Z - success: preferences loaded
+2018-01-25T06:36:53.724Z - success: project-exporter loaded
+2018-01-25T06:36:53.745Z - success: project-importer loaded
+2018-01-25T06:36:53.749Z - success: project-settings loaded
+2018-01-25T06:36:53.753Z - success: ui-kit loaded
+2018-01-25T06:36:53.757Z - success: ui-grid loaded
+2018-01-25T06:36:53.760Z - success: scene loaded
+2018-01-25T06:36:53.761Z - success: sprite-editor loaded
+2018-01-25T06:36:53.766Z - success: store loaded
+2018-01-25T06:36:53.773Z - success: timeline loaded
+2018-01-25T06:36:53.773Z - normal: Loading builtin packages
+2018-01-25T06:36:53.775Z - success: asset-db-debugger loaded
+2018-01-25T06:36:53.776Z - success: code-editor loaded
+2018-01-25T06:36:53.776Z - success: color-picker loaded
+2018-01-25T06:36:53.778Z - success: package-manager loaded
+2018-01-25T06:36:53.784Z - success: sdkbox loaded
+2018-01-25T06:36:53.791Z - success: tester loaded
+2018-01-25T06:36:53.793Z - success: ui-kit-preview-extra loaded
+2018-01-25T06:36:53.794Z - success: ui-kit-preview loaded
+2018-01-25T06:36:53.795Z - success: ui-tree loaded
+2018-01-25T06:36:55.602Z - normal: Initializing project C:\Users\lxb22\Desktop\svn\client\xpj
+2018-01-25T06:36:55.608Z - normal: Loading packages
+2018-01-25T06:36:55.622Z - success: clean loaded
+2018-01-25T06:36:55.626Z - success: resource loaded
+2018-01-25T06:36:55.745Z - success: unpack-textureatlas loaded
+2018-01-25T06:36:55.750Z - success: hot-update-tools loaded
+2018-01-25T06:36:55.757Z - success: hot-update loaded
+2018-01-25T06:36:55.758Z - normal: Watching packages
+2018-01-25T06:36:55.825Z - normal: Run Application
+2018-01-25T06:37:00.063Z - success: preview server running at http://localhost:7456
+2018-01-25T06:37:00.208Z - error: { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\ZJH'
+    at Object.fs.rmdirSync (fs.js:856:18)
+    at rmkidsSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:356:25)
+    at rmdirSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:334:7)
+    at rimrafSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:304:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:342:5
+    at Array.forEach (native)
+    at rmkidsSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:341:26)
+    at rmdirSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:334:7)
+    at rimrafSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:304:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:342:5
+  errno: -4051,
+  code: 'ENOTEMPTY',
+  syscall: 'rmdir',
+  path: 'C:\\Users\\lxb22\\Desktop\\svn\\client\\xpj\\temp\\quick-scripts\\assets\\Script\\SceneScript\\ZJH' }
+    at Object.init (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:3181)
+    at Async.series.e (C:\CocosCreator\resources\app.asar\editor\init.js:1:7995)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:274:29
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at listen (C:\CocosCreator\resources\app.asar\editor\core\preview-server.js:1:4542)
+2018-01-25T06:37:00.344Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.345Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\NN'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.345Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.350Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.352Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Action'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.353Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.360Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.361Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Home'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.363Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.372Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Login'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.375Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Home'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.377Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\NN'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.378Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.381Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.384Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Home'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.387Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.396Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Load'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.398Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\ZJH\Room'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.413Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Home'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.444Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\Home'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.444Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\SceneScript\ZJH\Room'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.455Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.456Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-01-25T06:37:00.461Z - error: Error: EPERM: operation not permitted, mkdir 'C:\Users\lxb22\Desktop\svn\client\xpj\temp\quick-scripts\assets\Script\Modules'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (C:\CocosCreator\resources\app.asar\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at i (C:\CocosCreator\resources\app.asar\editor\core\quick-compiler.js:1:521)
+    at C:\CocosCreator\resources\app.asar\node_modules\graceful-fs\graceful-fs.js:78:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)

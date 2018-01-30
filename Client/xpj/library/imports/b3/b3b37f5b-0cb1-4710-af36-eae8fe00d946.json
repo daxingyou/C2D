@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loginmv",
+    "texture": "0a2c026f-b036-4701-a2c7-161eb425bced",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      718,
+      750
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      723,
+      750
+    ]
+  }
+}

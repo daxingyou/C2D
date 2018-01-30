@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_table_wait",
+    "texture": "82d7d002-5faf-4a8e-ab9b-065d74a6a86e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      134
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "create_Drag3",
+    "texture": "bb3518bc-4fbc-4756-8751-3276c6652df9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      646,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      646,
+      29
+    ]
+  }
+}

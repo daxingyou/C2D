@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_join_room",
+    "texture": "ffebb872-f86e-4cc6-af21-b68059dcca54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      633,
+      291
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      633,
+      291
+    ]
+  }
+}

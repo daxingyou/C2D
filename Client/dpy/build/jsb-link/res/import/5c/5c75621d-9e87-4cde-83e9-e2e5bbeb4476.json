@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Apply_prompt1",
+    "texture": "c4c9REwORMFZ5DRQE6czl5",
+    "rect": [
+      0,
+      0,
+      191,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      46
+    ]
+  }
+}

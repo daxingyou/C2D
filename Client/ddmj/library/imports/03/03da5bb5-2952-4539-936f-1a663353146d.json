@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_title_record",
+    "texture": "5e9456de-fd1e-4571-b6db-e1697b8cd7cc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      30
+    ]
+  }
+}

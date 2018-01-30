@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_break_even",
+    "texture": "8aXzeCkTJP1aBR6kBCS2hB",
+    "rect": [
+      0,
+      0,
+      77,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      33
+    ]
+  }
+}

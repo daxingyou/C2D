@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ready_sign",
+    "texture": "0e4ab3b0-427a-4e2d-b5f9-2b366a08604a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      89
+    ]
+  }
+}

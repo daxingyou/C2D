@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "login_btn": {
+      "__uuid__": "d8CNqfgqxIJ68EG11vKzjh"
+    },
+    "login_wechat": {
+      "__uuid__": "42AAPhTdlHRbQjpKAnc5Ia"
+    }
+  }
+}

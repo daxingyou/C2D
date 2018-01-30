@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_title_invial",
+    "texture": "9351825b-434d-450b-86db-78b0e48f0495",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      124,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      30
+    ]
+  }
+}

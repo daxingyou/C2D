@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_check_on",
+    "texture": "bb27be24-365c-4eaf-bc5b-f20122509063",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      53
+    ]
+  }
+}

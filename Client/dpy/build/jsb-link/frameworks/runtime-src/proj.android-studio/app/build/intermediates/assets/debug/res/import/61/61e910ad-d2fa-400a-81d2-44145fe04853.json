@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titile_notice",
+    "texture": "140f6ce6b",
+    "rect": [
+      688,
+      101,
+      114,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      46
+    ],
+    "rotated": 1
+  }
+}

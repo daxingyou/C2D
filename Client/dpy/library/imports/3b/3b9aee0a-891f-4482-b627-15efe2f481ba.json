@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_create_room",
+    "texture": "c19196e3-3604-4041-97eb-684be5826195",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      608,
+      290
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      608,
+      290
+    ]
+  }
+}

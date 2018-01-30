@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "mymatch_line3": {
+      "__uuid__": "ddc6RJVL5H9KANSiaEkQMp"
+    },
+    "mymatch_line2": {
+      "__uuid__": "dfsQTEdXJCmaosiq9Rv36D"
+    },
+    "titile_mine_back": {
+      "__uuid__": "c3F634mwxK8K0ascNF/8tv"
+    },
+    "titile_notice": {
+      "__uuid__": "616RCt0vpACoHSRBRf4EhT"
+    },
+    "hall_btn_store": {
+      "__uuid__": "4ezHR7l/NOyofur+37xYv6"
+    },
+    "hall_btn_join_room": {
+      "__uuid__": "baLB26sclHS7oz6cGoq63/"
+    },
+    "hall_img_head_box": {
+      "__uuid__": "c7VCHuHWBC851/3giIqTGK"
+    },
+    "hall_btn_create_room": {
+      "__uuid__": "3bmu4KiR9EgrYnFe/i9IG6"
+    },
+    "hall_btn_mine_room": {
+      "__uuid__": "322wx8Yd1LFIx79Q3yb9/G"
+    },
+    "hall_btn_notice": {
+      "__uuid__": "16cFXWFztProhBeq8xtn+X"
+    },
+    "hall_btn_career": {
+      "__uuid__": "a88jgdDv5LFqR8+C0bPCB6"
+    },
+    "hall_btn_setting": {
+      "__uuid__": "453OEBsS5ITJzkFszSozUD"
+    }
+  }
+}

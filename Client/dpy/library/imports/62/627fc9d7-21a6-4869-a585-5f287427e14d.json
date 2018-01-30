@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safe_poker_choose",
+    "texture": "c346d3d1-f9aa-4805-9141-31cb2f1d90be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      102
+    ]
+  }
+}

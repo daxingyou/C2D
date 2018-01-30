@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_allin",
+    "texture": "ef2f3666-604b-437f-97a8-cd6971a43f77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      28
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "career_btn2",
+    "texture": "626e6558-7ed4-465d-bb37-b40462161f8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      376,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      376,
+      78
+    ]
+  }
+}

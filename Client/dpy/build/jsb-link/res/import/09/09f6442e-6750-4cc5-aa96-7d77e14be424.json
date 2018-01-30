@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "create_Drag3": {
+      "__uuid__": "fdEY3V5vpOe4qPX1R6uudI"
+    },
+    "create_Drag2": {
+      "__uuid__": "a5/9/uAJRF3aIe8omuH3bl"
+    },
+    "creat_creatematch": {
+      "__uuid__": "fcNx52NGFG0oE1OoLC9KKf"
+    },
+    "join_btn_1": {
+      "__uuid__": "f5NOOWLwFAHq70tDsB79xW"
+    },
+    "join_join": {
+      "__uuid__": "ac4N7HNz5FQ738P9tRR5Zq"
+    },
+    "creat_otherset": {
+      "__uuid__": "82U7jIYuROXK30CCKvmMKF"
+    },
+    "join_btn_7": {
+      "__uuid__": "76To7ZXNdETL1BQ8dVvfxI"
+    },
+    "join_btn_3": {
+      "__uuid__": "c25ZKxd/pKbpdqPj8lNru4"
+    },
+    "join_box1": {
+      "__uuid__": "c7n2SBcuFF05B64MorkJGI"
+    },
+    "creat_socreset": {
+      "__uuid__": "d5T4au3UVDerzpkCuG87dZ"
+    },
+    "join_btn_8": {
+      "__uuid__": "e2LD0pGLRIsaoJkPiTtDUl"
+    },
+    "join_btn_9": {
+      "__uuid__": "5cyKmu5mtKu4p12bchtU+Z"
+    },
+    "creat_start": {
+      "__uuid__": "8d6wtwpBpBtIRwk7FNZ2fU"
+    },
+    "create_Drag1": {
+      "__uuid__": "4973/A135DX6iCCUCpXe39"
+    },
+    "join_btn_6": {
+      "__uuid__": "edUVazWo9AmJBY/bcJ/HT9"
+    },
+    "create_choose1": {
+      "__uuid__": "990n9XPhhBgLBVHpyjpOcA"
+    },
+    "join_btn_delete": {
+      "__uuid__": "c6SytAzF1J9Y322uDOAd+j"
+    },
+    "create_choose2": {
+      "__uuid__": "c0n8+fPnBCBKYi2iUxhMbW"
+    },
+    "creat_timeset": {
+      "__uuid__": "94oZKUYeRMIYt/F0F2ksee"
+    },
+    "join_btn_reduce": {
+      "__uuid__": "bdJANeillA3pxi7pY6GDFn"
+    },
+    "join_btn_0": {
+      "__uuid__": "f7/y/OfadCn5YKBT1Pvn3J"
+    },
+    "join_btn_2": {
+      "__uuid__": "0cy/iGABVAoL3VtFoMPVNF"
+    },
+    "join_btn_4": {
+      "__uuid__": "a3pMxm5lNJXZ/k8OZ3Didb"
+    },
+    "join_btn_5": {
+      "__uuid__": "b39NSwQc5EsZhzRriHonoS"
+    }
+  }
+}

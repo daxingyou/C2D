@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gr_img_table",
+    "texture": "22bd06ec-1393-4d1b-8866-8a5d863d0982",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      134
+    ]
+  }
+}

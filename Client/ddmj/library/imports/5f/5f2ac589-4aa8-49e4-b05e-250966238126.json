@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameOver_title_lose",
+    "texture": "8c79a06a-a5d5-49d9-91f4-f77ac0ead2d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      479,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      479,
+      71
+    ]
+  }
+}

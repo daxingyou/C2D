@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bq_board",
+    "texture": "27wSpFQvBPm6ks9F1socVt",
+    "rect": [
+      0,
+      0,
+      140,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      129
+    ],
+    "capInsets": [
+      39,
+      43,
+      42,
+      44
+    ]
+  }
+}

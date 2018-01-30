@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statis_showdown",
+    "texture": "4bb80df0-3e75-40c0-be2b-60ddaff98767",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      93,
+      29
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      94,
+      29
+    ]
+  }
+}

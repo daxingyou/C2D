@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statis_discard",
+    "texture": "1arcQbYBxOb6EiYhuWZMLO",
+    "rect": [
+      1,
+      0,
+      93,
+      29
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      94,
+      29
+    ]
+  }
+}

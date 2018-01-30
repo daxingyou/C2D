@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_start1",
+    "texture": "99YAqUmg9IA6GvNf3pBsE4",
+    "rect": [
+      0,
+      0,
+      295,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      295,
+      112
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_public_brand",
+    "texture": "6206918f-c888-4f06-999d-ecf38766895c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      28
+    ]
+  }
+}

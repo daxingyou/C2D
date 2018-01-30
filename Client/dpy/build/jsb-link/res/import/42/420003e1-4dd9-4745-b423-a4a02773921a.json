@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_wechat",
+    "texture": "1ccb6987a",
+    "rect": [
+      2,
+      118,
+      204,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      53
+    ]
+  }
+}

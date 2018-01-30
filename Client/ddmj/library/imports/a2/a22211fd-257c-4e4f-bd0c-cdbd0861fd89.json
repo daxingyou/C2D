@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_txt_notice",
+    "texture": "009e989f-cbe6-4a6f-a96a-683e64b1f05b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      25
+    ]
+  }
+}

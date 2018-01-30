@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_career",
+    "texture": "140f6ce6b",
+    "rect": [
+      806,
+      90,
+      57,
+      83
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      115,
+      93
+    ]
+  }
+}

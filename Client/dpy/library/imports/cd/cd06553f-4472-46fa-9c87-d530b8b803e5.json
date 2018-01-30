@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_add",
+    "texture": "69832ee5-e213-4a52-b1fe-23f4383c35df",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      89,
+      39
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      90,
+      40
+    ]
+  }
+}

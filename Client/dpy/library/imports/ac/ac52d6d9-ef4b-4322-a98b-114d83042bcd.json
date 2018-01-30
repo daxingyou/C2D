@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_break_even",
+    "texture": "8a5f3782-9132-4fd5-a051-ea40424b6841",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      33
+    ]
+  }
+}

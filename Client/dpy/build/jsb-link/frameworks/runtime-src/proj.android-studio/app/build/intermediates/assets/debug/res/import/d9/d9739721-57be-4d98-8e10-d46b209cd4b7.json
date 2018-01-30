@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table_lbl_allin",
+    "texture": "efLzZmYEtDf5eozWlxpD93",
+    "rect": [
+      0,
+      0,
+      84,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      28
+    ]
+  }
+}

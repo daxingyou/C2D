@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_img_takeState",
+    "texture": "394fae90-0499-4ef3-80eb-3804e7b9fa06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      44
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_1000gold",
+    "texture": "196ce09d-b088-49c4-a2b8-ac150551b24b",
+    "atlas": "",
+    "rect": [
+      7,
+      1,
+      376,
+      276
+    ],
+    "offset": [
+      3,
+      0
+    ],
+    "originalSize": [
+      384,
+      278
+    ]
+  }
+}

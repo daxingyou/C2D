@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statis_filling",
+    "texture": "9dmXZLgFdFNrqshQdZ/ruU",
+    "rect": [
+      1,
+      1,
+      93,
+      28
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      94,
+      29
+    ]
+  }
+}

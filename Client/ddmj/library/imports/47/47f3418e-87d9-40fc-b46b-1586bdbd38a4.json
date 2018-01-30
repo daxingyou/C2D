@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_return",
+    "texture": "91c3b4f1-5c58-4c83-bc37-29731f363acf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      275,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      275,
+      106
+    ]
+  }
+}

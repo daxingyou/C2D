@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniucombat_ic_niu4",
+    "texture": "b96b8693-7af5-49cb-8cca-c36b5f64595e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      40
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      80,
+      40
+    ]
+  }
+}

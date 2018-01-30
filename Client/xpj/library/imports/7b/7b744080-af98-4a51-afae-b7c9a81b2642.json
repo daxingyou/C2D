@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniucombat_ic_win",
+    "texture": "a0266602-c44b-4987-bad7-e259f5257d00",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      490,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      490,
+      246
+    ]
+  }
+}

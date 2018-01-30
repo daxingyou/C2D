@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_left",
+    "texture": "88P+gUr4hPNraYgM/W9pcV",
+    "rect": [
+      0,
+      0,
+      512,
+      1334
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      1334
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_club",
+    "texture": "b5732cab-f743-42b6-b220-58d06b718474",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      622,
+      179
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      622,
+      179
+    ]
+  }
+}

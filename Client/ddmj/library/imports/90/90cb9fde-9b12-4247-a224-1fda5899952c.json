@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_authPhone",
+    "texture": "56fa23a7-daa4-483c-971d-4d516e0058d4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      80
+    ]
+  }
+}

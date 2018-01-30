@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Apply_applychip",
+    "texture": "1a9ab17a-27b2-490b-8578-9876f028b2b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      47
+    ]
+  }
+}

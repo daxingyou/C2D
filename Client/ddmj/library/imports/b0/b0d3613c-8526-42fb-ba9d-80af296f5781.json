@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Left_Stand",
+    "texture": "94ae23b1-ec12-403c-8e0c-79662077b390",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      58
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_email",
+    "texture": "0e9140a6-3c8b-4970-9c10-b475964cd3c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      50
+    ]
+  }
+}

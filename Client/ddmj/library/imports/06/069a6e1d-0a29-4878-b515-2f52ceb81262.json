@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_txt_normal",
+    "texture": "8caee5c8-0535-4065-9364-d4bb6f2d4771",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      152,
+      36
+    ]
+  }
+}

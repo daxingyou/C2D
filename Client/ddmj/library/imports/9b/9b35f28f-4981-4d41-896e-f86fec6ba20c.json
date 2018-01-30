@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "setting_check_close",
+    "texture": "250ef7a9-f791-4a0d-9be2-6958219aa924",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      185,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      67
+    ]
+  }
+}

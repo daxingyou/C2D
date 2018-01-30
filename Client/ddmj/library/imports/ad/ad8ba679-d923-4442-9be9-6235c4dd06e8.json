@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_Img_b2",
+    "texture": "e734e449-b0b4-4e20-9397-80f10699a740",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      63
+    ]
+  }
+}

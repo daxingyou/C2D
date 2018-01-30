@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_btn_join",
+    "texture": "577f3a6f-091f-4d1e-b90b-9a5d7e066292",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      586,
+      212
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      588,
+      214
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiao_6",
+    "texture": "e525aaeb-25f1-47f0-ae14-0bdaa9ff1d5b",
+    "atlas": "",
+    "rect": [
+      7,
+      4,
+      48,
+      71
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      60,
+      76
+    ]
+  }
+}

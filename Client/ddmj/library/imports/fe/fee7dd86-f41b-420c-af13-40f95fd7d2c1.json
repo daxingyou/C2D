@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "board_btm",
+    "texture": "2fe92ad7-dc2d-480d-a651-9973bdf3b924",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      132,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      137
+    ],
+    "capInsets": [
+      61,
+      39,
+      63,
+      36
+    ]
+  }
+}

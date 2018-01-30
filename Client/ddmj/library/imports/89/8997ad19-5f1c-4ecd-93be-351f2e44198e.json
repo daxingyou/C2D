@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "store_9_baord_b2",
+    "texture": "8e7d36d9-ed92-4da8-a048-aa82f904eb1d",
+    "atlas": "",
+    "rect": [
+      7,
+      5,
+      146,
+      148
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      160,
+      160
+    ],
+    "capInsets": [
+      65,
+      74,
+      64,
+      65
+    ]
+  }
+}

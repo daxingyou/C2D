@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu_carddecorate",
+    "texture": "ad0c08ca-5111-446c-bec3-a71500b3cc84",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      104,
+      104
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      105,
+      105
+    ]
+  }
+}

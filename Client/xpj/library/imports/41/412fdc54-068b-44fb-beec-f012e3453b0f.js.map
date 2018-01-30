@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\..\\..\\..\\assets\\Script\\Modules/assets\\Script\\Modules\\Config.ts"],"names":[],"mappings":";;;;;AAAA;;GAEG;AACU,QAAA,KAAK,GAAW,uBAAuB,CAAC","file":"","sourceRoot":"..\\..\\..\\..\\..\\assets\\Script\\Modules","sourcesContent":["/**\r\n * ws连接地址\r\n */\r\nexport const wsUrl: string = 'ws://xpjgame.cc:30000';\r\n\r\n"]}

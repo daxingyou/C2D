@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_mine_room",
+    "texture": "140f6ce6b",
+    "rect": [
+      639,
+      289,
+      608,
+      257
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      608,
+      257
+    ],
+    "rotated": 1
+  }
+}

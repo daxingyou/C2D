@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "safe_pro_bg",
+    "texture": "e5bdf16c-1e4e-40e1-93f3-9a704a198ce1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      646,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      646,
+      29
+    ]
+  }
+}

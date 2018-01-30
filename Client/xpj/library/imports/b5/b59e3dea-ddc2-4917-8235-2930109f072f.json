@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_xiaozi",
+    "texture": "f3a16184-7c8c-4f48-aff9-b854d163606b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      98
+    ]
+  }
+}

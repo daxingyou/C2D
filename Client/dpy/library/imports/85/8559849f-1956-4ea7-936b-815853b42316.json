@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Apply_prompt2",
+    "texture": "9b5a6561-f2bd-49da-ae26-bc7e65b80f6a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      190,
+      46
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      191,
+      46
+    ]
+  }
+}

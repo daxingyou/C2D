@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_img_noticeBoard",
+    "texture": "89667678-dbb1-413b-acdc-61f06ad8d65c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      564,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      564,
+      45
+    ]
+  }
+}

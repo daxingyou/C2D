@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "club_txt_close",
+    "texture": "7e1ecbf6-33b0-4522-a5fd-686fc6efc949",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      29
+    ]
+  }
+}

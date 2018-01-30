@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "statis_career",
+    "texture": "e9+nESJxBFv6Ypa/Qndlzc",
+    "rect": [
+      0,
+      0,
+      179,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      46
+    ]
+  }
+}

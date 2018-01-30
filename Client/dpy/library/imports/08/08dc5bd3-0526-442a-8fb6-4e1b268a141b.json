@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_safePool",
+    "texture": "0ca0f32c-ba96-411c-98b6-1640a797f6de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      29
+    ]
+  }
+}

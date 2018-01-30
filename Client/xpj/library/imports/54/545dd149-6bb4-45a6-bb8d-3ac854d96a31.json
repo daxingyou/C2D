@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fontzhunru",
+    "texture": "a57e616b-634a-4ca1-a1a8-cc4352ae6a52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      40
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      145,
+      40
+    ]
+  }
+}

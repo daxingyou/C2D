@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_btn_giveRC",
+    "texture": "a941fa56-8ccf-4a49-8287-a525f7f8d757",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      82
+    ]
+  }
+}

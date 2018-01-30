@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniucombat_ic_time",
+    "texture": "38aae61b-6b05-4467-ad87-1f1b97eadb20",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      74,
+      59
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      74,
+      60
+    ]
+  }
+}

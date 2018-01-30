@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MJ_E_Top_Stand",
+    "texture": "a9e7f638-8743-4477-b0d4-c1c61702570c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      58
+    ]
+  }
+}

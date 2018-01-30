@@ -1,0 +1,66 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "bq.plist",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "2cudPO2sFDUIZvmTv6SE2a"
+    },
+    "2": {
+      "__uuid__": "c6XJVV4gNIxr1bJK6Ph6Sr"
+    },
+    "3": {
+      "__uuid__": "99Gsnc2hRN0o5mXxUNXTAE"
+    },
+    "4": {
+      "__uuid__": "94BdEEtntEZZALml3v4bUv"
+    },
+    "5": {
+      "__uuid__": "caOHOhdhFDIpdHRZklD1uB"
+    },
+    "6": {
+      "__uuid__": "6fF1sDrQ5DBKWIQgan+o2b"
+    },
+    "7": {
+      "__uuid__": "b2AOWibU9L37pRS/NXV270"
+    },
+    "8": {
+      "__uuid__": "6fI6EDNmJIk7zBncx6yVZK"
+    },
+    "9": {
+      "__uuid__": "c25/29UmhELZS/lxo0SLlb"
+    },
+    "10": {
+      "__uuid__": "6bI5Sd52xK/L+nszvO+RrG"
+    },
+    "11": {
+      "__uuid__": "eb2TmggANNeZ+a1T5iGSqF"
+    },
+    "12": {
+      "__uuid__": "1alexUM9FC04kqNOLTciMe"
+    },
+    "13": {
+      "__uuid__": "90wlOJAehM0aW1+WRZi3jA"
+    },
+    "14": {
+      "__uuid__": "4fT6OOQQ1O25Vy7DjYtSxl"
+    },
+    "15": {
+      "__uuid__": "48Io6Fbs5LeZqChZeygS5d"
+    },
+    "16": {
+      "__uuid__": "0akCap/K5G+oK0xr77HIDZ"
+    },
+    "17": {
+      "__uuid__": "d9UGrUl0hJUKh9PBXu98WG"
+    },
+    "18": {
+      "__uuid__": "a2hnhwa9NC55fSrs4HNe8D"
+    },
+    "19": {
+      "__uuid__": "ca1PApsOhN9Y/d99pcsCYh"
+    },
+    "20": {
+      "__uuid__": "b6orenSpNJJ7OoNA7fuqJP"
+    }
+  }
+}

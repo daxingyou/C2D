@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_anti_super_card",
+    "texture": "a9e2b194-f23b-4ecb-be5e-f9115fee7c2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      27
+    ]
+  }
+}
